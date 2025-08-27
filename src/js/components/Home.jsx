@@ -90,7 +90,7 @@ const Home = () => {
 
 
 	/*
-				MODAL 
+			+++++	MODAL 
 	*/
 
 	const [show, setShow] = useState(false);
@@ -100,6 +100,9 @@ const Home = () => {
 	}
 
 	const closeModal = () => setShow(false)
+/*
+			------	MODAL 
+	*/
 
 	console.log('----------actualizacion------------')
 	return (
